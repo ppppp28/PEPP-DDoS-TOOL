@@ -5,7 +5,7 @@
  <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
   <img  src="https://img.shields.io/github/languages/top/pedrorubio07/PEPP-DDoS-TOOL?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
+  <img  src="https://img.shields.io/github/stars/pedrorubio07/PEPP-DDoS-TOOL?color=6d00c1&logoColor=6d00c1">
   <br>
   <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
   <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
