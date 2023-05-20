@@ -1,5 +1,3 @@
-ig:@rubiopedroo__ t.me:pppp_dx
-
 INSTRUCCIONES DE INICIO
 .Instalar los requerimientos:
 pip install -r requirements.txt
