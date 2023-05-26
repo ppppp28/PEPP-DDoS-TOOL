@@ -12,7 +12,7 @@
 </div>
 
 ## Menu
-![PEPP]([blob:https://web.whatsapp.com/a800d2bc-f88d-455f-a8c8-c486276c1bad](https://github.com/pedrorubio07/PEPP-DDoS-TOOL/blob/main/previews/amenu.png))
+![PEPP](https://github.com/pedrorubio07/PEPP-DDoS-TOOL/blob/main/previews/amenu.png)
 
 ## Methods
 
