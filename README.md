@@ -31,7 +31,7 @@
 ```
 
 ## Uso en Windows
-[![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=snBnVpxowoM)
+[![](https://github.com/ppppp28/PEPP-DDoS-TOOL/blob/main/previews/video.png)](https://www.youtube.com/watch?v=snBnVpxowoM)
 
 ## Uso en Linux
 ```sh
