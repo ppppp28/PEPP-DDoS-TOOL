@@ -30,14 +30,9 @@
   -tcp-
 ```
 
-## Videos
+## Uso en Windows
 [![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
 
-## Uso en Windows
-```sh
-Debes tener python 3.9 para arriba
-
-Abrir el
 ## Uso en Linux
 ```sh
 Debes tener python 3.9 para arriba
