@@ -1,6 +1,7 @@
 <div align=center>
  
 # PEPP DDoS TOOL
+ Discord:ppppppp#1001 Telegram:pppp_dx
  <p>
  <img src="https://img.shields.io/github/stars/pedrorubio07/PEPP-DDoS-TOOL?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/pedrorubio07/PEPP-DDoS-TOOL?color=%239999FF&style=for-the-badge"/> &nbsp;
