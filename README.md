@@ -14,43 +14,33 @@
 ## Menu
 ![PEPP](https://github.com/ppppp28/PEPP-DDoS-TOOL/blob/main/previews/amenus.png)
 
-## Methods
+## Metodos
 
 ```sh
   [Layer 7]
- - cfb     | Bypass CF attack
- - pxcfb   | Bypass CF attack with proxy
- - cfreq   | Bypass CF UAM, CAPTCHA, BFM, etc,, with request
- - cfsoc   | Bypass CF UAM, CAPTCHA, BFM, etc,, with socket
- - pxsky   | Bypass Google Project Shield, Vshield, DDoS Guard Free, CF NoSec With Proxy
- - sky     | Sky method without proxy
- - http2   | HTTP 2.0 Request Attack 
- = pxhttp2 | HTTP 2.0 Request Attack With Proxy
- - spoof   | Spoof Attasck
- - pxspoof | Spoof Attack with Proxy
- - get     | Get  Request Attack
- - post    | Post Request Attack
- - head    | Head Request Attack
- - soc     | Socket Attack
- - pxraw   | Proxy Request Attack
- - pxsoc   | Proxy Socket Attack
+ -ssh-
+ -http2- 
+ -pxhttp2-
+ -get-
+ -head-
+ -pxsoc-
  
   [Layer 4]
-  -udp     | UDP Attack
-  -tcp     | TCP Attack
-  
-  [Tools]
- - Dns     | Classic DNS Lookup
- - Geoip   | Geo IP Address Lookup
- - Subnet  | Subnet IP Address Lookup
+  -udp-
+  -tcp-
 ```
 
 ## Videos
 [![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
 
-## Usage on Linux
+## Uso en Windows
 ```sh
-You must use Python 3.9 or higher
+Debes tener python 3.9 para arriba
+
+Abrir el
+## Uso en Linux
+```sh
+Debes tener python 3.9 para arriba
 
 git clone https://github.com/HyukIsBack/KARMA-DDoS.git
 
@@ -61,14 +51,14 @@ Install Chrome (or update it lastest version)
  - apt-get install ./google-chrome-stable_current_amd64.deb
 
 OR
- - python3 setup.py
+ - python3 stp.py
 
 ```
 
-## Example
+## Ejemplo
 ```sh
-Use DDoS Panel   : python3 main.py
-Use command line : python3 main.py <method> <target> <thread> <time>
-      └──────────> python3 main.py cfb https://example.com 100 30
+- python3 peps.py
+- python3 peps.py <method> <target> <thread> <time>
+- python3 peps.py cfb https://example.com 100 30
 ```
 
