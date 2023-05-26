@@ -42,7 +42,7 @@ Debes tener python 3.9 para arriba
  - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  - apt-get install ./google-chrome-stable_current_amd64.deb
 
-OR
+O
  - python3 stp.py
 
 ```
