@@ -37,11 +37,8 @@
 ```sh
 Debes tener python 3.9 para arriba
 
-git clone https://github.com/HyukIsBack/KARMA-DDoS.git
-
-Install Python3 modules
+ - git clone https://github.com/HyukIsBack/KARMA-DDoS.git
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
-Install Chrome (or update it lastest version)
  - wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  - apt-get install ./google-chrome-stable_current_amd64.deb
 
